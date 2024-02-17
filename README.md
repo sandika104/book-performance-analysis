@@ -14,7 +14,7 @@ An interactive dashboard that makes it easy to read insights based on data enter
 1. What are the most sold books in this dataset?
 2. Who is the author with the most number of books?
 3. Which authors use the same publisher the most for their books?
-4. Is there a correlation between a book's rating and its publication year?
+4. Is there a relationship between a book's rating and its publication year?
 5. Which publisher gets the highest number of ratings?
 6. Who are the publishers with the most books in this dataset?
 7. Is there a relationship between book rating and book age?
