@@ -144,7 +144,8 @@ FROM
 WHERE
     TRIM(SUBSTRING_INDEX(location, ',', - 1)) != ''
 GROUP BY country
-ORDER BY total_ratings DESC;
+ORDER BY total_ratings DESC
+Limit 20;
 
 -- 10. Is there a relationship between the book's rating and other factors such as author, publisher, or publication year? --
 SELECT 
