@@ -83,4 +83,6 @@ The average value is 7.6 with a middle value of 8 and the highest value is 8. Th
 It can be seen that the largest distribution of data is in the number range 25 - 45. In this data there are quite a lot of values above 45, with several outliers after the number 75. This is because the age range of the outlier is far from the average age.
 
 This data has an average value of 34.63 with the middle value being 32 and the highest value being 24. We can assume they are people who will or are currently working. There is a standard deviation of 14.02 which is quite high and there is a skewness of -0.9945 which means the data is skewed to the right and the majority have an age that is greater than the average value.
-
+  
+-------------------------------------------------------------------------------------------------------------------  
+<-- This data actually has quite a lot of problems, and I should have asked the data engineer to provide better data. But since this is just an exercise, I will still use it. -->
