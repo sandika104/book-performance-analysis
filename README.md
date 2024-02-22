@@ -51,3 +51,8 @@ A : Each country has a different level of literacy. With the highest level of li
 
 A : Based on the data above, the rating of a book is positively proportional to the increase in the number of books written by the author. And the increase in book writing is positively proportional to the increase in the number of publishers. For example, books classified as "MiddleAgeBooks" experience a significant increase in the number of ratings when authors and publishers increase.
 
+------------------------------------------------------------------------------------------------------
+## Dashboard
+![Screenshot 2024-02-22 204441](https://github.com/sandika104/book-performance-analysis/assets/153609763/28f8896d-f854-406d-9778-09e5ac54c8ff)  
+
+![Screenshot 2024-02-22 204341](https://github.com/sandika104/book-performance-analysis/assets/153609763/dd15b958-9e4c-4d00-905f-c9fd2075f4b2)
