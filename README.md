@@ -1,4 +1,6 @@
 # Book Performance Analysis & Dashboard
+![Screenshot 2024-02-22 204203](https://github.com/sandika104/book-performance-analysis/assets/153609763/05f4c4ea-6f62-4741-ae01-265490e1bb97)
+
 This file contains online data for books from Amazon along with user ratings and users who bought them. This dataset has been compiled by Cai-Nicolas Ziegler in 2004, and it comprises of three tables for users, books and ratings.
 
 I got this dataset from the Kaggle site. You can search for it here:  
